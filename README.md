@@ -33,7 +33,7 @@ I am following a rigorous skill-up path to build enterprise-grade software and a
 
 ### 🤝 Let's Connect!
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/arnabmondal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="arnabmondal3527@gmail.com" target="blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=40" alt="Gmail" height="30" width="40" /></a>
 </p>
 
